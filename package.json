@@ -4,6 +4,10 @@
   "description": "React Code Snippet for easy coding.",
   "version": "0.0.1",
   "publisher": "devendra",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Dev121212/react-code-snippet.git"
+  },
   "engines": {
     "vscode": "^1.41.0"
   },

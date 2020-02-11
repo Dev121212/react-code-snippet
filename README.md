@@ -1,4 +1,4 @@
-# react-code-snippet README
+# react-code-snippet
 
-This is the README for your extension "react-code-snippet". The developer of this snippet is Devendra.
+The developer of this snippet is Devendra.
 
