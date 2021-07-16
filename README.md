@@ -1,4 +1,4 @@
-# react-code-snippet
+# React Code Snippet
 
 The React Code Snippet is a Visual Studio Code extension which helps developers for easy coding.
 
